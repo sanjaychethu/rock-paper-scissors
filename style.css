@@ -7,13 +7,6 @@
     font-family: "Montserrat", sans-serif;
 }
 
-.generate-choices{
-  color: white;
-  text-align: center;
-  font-family: "Montserrat", sans-serif;
-  font-weight: bolder;
-  font-size: 1rem;
-}
 
 h1{
   font-size: 50px;
@@ -25,13 +18,7 @@ h1,h2{
     text-align: center;
 }
 
-h3{
-  color: white;
-  text-align: center;
-}
-.generate-choices{
-  margin-top: 30px;
-}
+
 
 .choice {
     height: 200px;
