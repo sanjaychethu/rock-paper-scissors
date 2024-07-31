@@ -25,8 +25,8 @@ The game follows the classic rules of Rock-Paper-Scissors, where each player cho
 
 Players can select Rock, Paper, or Scissors by clicking on the respective buttons. The computer's choice is generated randomly. The result of each round is displayed along with the updated score.
 
-![Game Start](images/game_start.png)
-![Game Tie](images/game_tie.png)
+![image1](demo1/Screenshot%20(766).png)
+![image2](demo1/Screenshot%20(767).png)
 
 ## Conclusion
 
